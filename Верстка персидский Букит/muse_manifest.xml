@@ -1,0 +1,234 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://panoramamed23book.promo.pac.ru,https://www.cb-bookit.ru/cruise-mediterranean-panorama" resolutions="1x" timestamp="1684248001547">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="140173218" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="ptsans-bold.woff" crc="376843929"/>
+    <file name="ptsans-bold.eot" crc="4276579136"/>
+    <file name="ptsans-regular.woff" crc="388942947"/>
+    <file name="ptsans-regular.eot" crc="304354393"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="круиз-•-панорама-средиземноморья-favicon.ico" crc="372928395" ref="index"/>
+    <file name="avia-01.svg" crc="4089682092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="avia-01_poster_.png" crc="3927620564" ref="index"/>
+    <file name="u112-4.png" crc="4002548873" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u234-4.png" crc="449025546" ref="index"/>
+    <file name="linewave-01.svg" crc="50981209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linewave-01_poster_.png" crc="3817244071" ref="index"/>
+    <file name="grid_orange.png" crc="4143291333" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="beautiful view of traditional gondola on canal grande with basilica di santa maria della salute in the background, venice, italy shutterstock_234724597.jpg" crc="374411808" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc13015960.jpg" crc="78841399" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grid_1.png" crc="3909559080" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u738-4.png" crc="175494624" ref="index"/>
+    <file name="fon.jpg" crc="24388289" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strela-01.svg" crc="4132323271" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="strela-01_poster_.png" crc="3828001199" ref="index"/>
+    <file name="loo_pac.svg" crc="4040295956" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loo_pac_poster_.png" crc="312400704" ref="index"/>
+    <file name="logo_msc.svg" crc="36636337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_msc_poster_.png" crc="4027277819" ref="index"/>
+    <file name="u108-4.png" crc="270194699" ref="index"/>
+    <file name="20yearsmsc.svg" crc="3775472402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20yearsmsc_poster_.png" crc="427024782" ref="index"/>
+    <file name="u9224-4.png" crc="299314308" ref="index"/>
+    <file name="u915-4.png" crc="45972724" ref="index"/>
+    <file name="linewave-03.svg" crc="3902106808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linewave-03_poster_.png" crc="3981908422" ref="index"/>
+    <file name="msc1317840_ship_msc_musica-crop-u8893.jpg" crc="83530099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc13015294.jpg" crc="4019694131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc13015694.jpg" crc="3866957690" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc13015735.jpg" crc="4066701142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc13015858.jpg" crc="4066433463" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc13015866.jpg" crc="276654290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc13015875.jpg" crc="5601214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc13015876.jpg" crc="460460728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc13015917.jpg" crc="4189744013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc13016040.jpg" crc="197336549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc18014450.jpg" crc="3839070042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc18014451.jpg" crc="4258695141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc18014453.jpg" crc="4123945375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc18014454.jpg" crc="3883536403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc18014563.jpg" crc="4115851837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc18014568.jpg" crc="436815224" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc18014584.jpg" crc="4213122998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc18014661.jpg" crc="3811301322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc18014664.jpg" crc="376469576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc18014667.jpg" crc="4264210981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="icon_pers-01.svg" crc="280997414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_pers-01_poster_.png" crc="72012591" ref="index"/>
+    <file name="icon_pers-04.svg" crc="4103014284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_pers-04_poster_.png" crc="4122827023" ref="index"/>
+    <file name="msc_yc_plate_cmyk-01.svg" crc="7020741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="msc_yc_plate_cmyk-01_poster_.png" crc="535900235" ref="index"/>
+    <file name="icon_pers-02.svg" crc="3855521157" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_pers-02_poster_.png" crc="3846842184" ref="index"/>
+    <file name="icon_pers-03.svg" crc="4128740726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_pers-03_poster_.png" crc="4280178111" ref="index"/>
+    <file name="icon_pers-05.svg" crc="423435390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_pers-05_poster_.png" crc="3955634044" ref="index"/>
+    <file name="grid_wh.png" crc="372811289" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_433413835-crop-u11021.jpg" crc="4217710893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1002-4.png" crc="38369129" ref="index"/>
+    <file name="shutterstock_1239753184.jpg" crc="3822874935" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linewave-02.svg" crc="4041452904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linewave-02_poster_.png" crc="3900959109" ref="index"/>
+    <file name="u11964-4.png" crc="3930362850" ref="index"/>
+    <file name="bookit.svg" crc="4195350290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bookit_poster_.png" crc="3776828800" ref="index"/>
+    <file name="icon-01.svg" crc="4051695233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-01_poster_.png" crc="3916476013" ref="index"/>
+    <file name="icon-02.svg" crc="108675471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-02_poster_.png" crc="371180428" ref="index"/>
+    <file name="icon-03.svg" crc="435122508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-03_poster_.png" crc="223453568" ref="index"/>
+    <file name="premium-icon-telegram-3670070.png" crc="97244445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="istambul shutterstock_1296095191.jpg" crc="4045980164" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mikonos shutterstock_428874820.jpg" crc="3858851726" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="korfu shutterstock_1256875735.jpg" crc="383380271" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="alberobello shutterstock_439023022.jpg" crc="413552012" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="olimpia shutterstock_521032510.jpg" crc="341788612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perei_shutterstock_1017139666.jpg" crc="163433189" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kushadas shutterstock_1874739217.jpg" crc="498088519" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="istambul shutterstock_1517460539.jpg" crc="3878925640" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="502800663" seo="true" mt="1684247999945" redirect="true"/>
+</manifest>
